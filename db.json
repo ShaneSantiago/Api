@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nome": "teste",
+            "password": "12345678",
+            "cargo": "USER"
+        },
+        {
+            "id": 2,
+            "name": "teste2",
+            "password": "12345678",
+            "cargo": "ADM"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Notebook Helios 300",
+            "price": "8000",
+            "date": "10-10-2021",
+            "quantity": "2"
+        },
+        {
+            "id": 2,
+            "name": "Notebook Acer",
+            "price": "5000",
+            "date": "10-10-2021",
+            "quantity": "8"
+        }
+    ]
+}
