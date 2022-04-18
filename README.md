@@ -12,7 +12,7 @@
 
 <!-- PROJECT SITE -->
 <h2 id="site">:earth_americas: Link do site </h2>
-<p>🔗 <a href="https://abounding-nail.surge.sh/" target="_blank"> Viagens </a>  </p>
+<p>🔗 <a href="https://abounding-nail.surge.sh/" target="_blank"> API </a>  </p>
 <!-- <a href="https://api-users-e-product.herokuapp.com/" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 
 
