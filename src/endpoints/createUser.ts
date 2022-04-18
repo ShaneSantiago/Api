@@ -23,7 +23,7 @@ export default async function createUser(
          throw new Error("A senha deve conter, no mínimo, 6 dígitos");
       }
 
-      if (role.toUpperCase() !== userRole.ADMIN && role.toUpperCase() !== !userRole.NORMAL){
+      if (role.toUpperCase() !== userRole.ADMIN && role.toUpperCase() !== userRole.NORMAL){
          
          throw new Error("Os valores possíveis para 'role' são NORMAL e ADMIN");
       }
